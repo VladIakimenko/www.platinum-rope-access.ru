@@ -1,0 +1,17 @@
+SECRET_KEY=
+DEBUG=true
+ALLOWED_HOSTS=*
+
+POSTGRES_DB=
+POSTGRES_USER=
+POSTGRES_PASSWORD=
+HOST=postgres           # postgres for DEBUG=false; localhost for DEBUG=true;
+PORT=5432
+
+SMTP_ENDPOINT=          # SMTP SERVER DETAILS
+STARTTLS_PORT=          
+SMTP_USERNAME=
+SMTP_PASSWORD=
+SENDER=
+
+DEFAULT_STAKE=          # default monthly stake
